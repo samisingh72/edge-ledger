@@ -80,6 +80,13 @@ p {
    color: #fff;
  }
 
+ .content {
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+   
+ }
+
   
    
  
